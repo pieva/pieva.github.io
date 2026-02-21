@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": -0.6428864362601558,
           "pitch": -0.014904521020874029,
           "title": "Modello",
-    "text": "<a href='https://sketchfab.com/3d-models/tempio-greco-b0424bfa8e464593a75fa847d2be00ca' target='_blank'>Apri il modello 3D su Sketchfab</a>"
+          "text": "https://sketchfab.com/3d-models/tempio-greco-b0424bfa8e464593a75fa847d2be00ca"
         }
       ]
     },
