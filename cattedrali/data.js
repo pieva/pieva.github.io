@@ -112,7 +112,7 @@ var APP_DATA = {
           "yaw": 0.20590251781115576,
           "pitch": 0.06400063709784476,
           "title": "Altare",
-          "text": "Arredi"
+          "text": "Questo è un esempio di testo descrittivo"
         }
       ]
     }
